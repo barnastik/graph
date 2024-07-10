@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1701972833 source:c:\users\barna\Ñ++\graph\clcircle.cpp
+	"clCircle.h"
+
+1702318824 c:\users\barna\Ñ++\graph\clcircle.h
+	"clDraw.h"
+
+1702311838 c:\users\barna\Ñ++\graph\cldraw.h
+	<cstdlib>
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+
+1702319993 source:c:\users\barna\Ñ++\graph\clnode.cpp
+	"clNode.h"
+
+1702318959 c:\users\barna\Ñ++\graph\clnode.h
+	"clCircle.h"
+
+1702320864 source:c:\users\barna\Ñ++\graph\main.cpp
+	"TXLib.h"
+	<cstdio>
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<cmath>
+	<stdio.h>
+	"clLine.h"
+	"clCircle.h"
+	"clNode.h"
+	"clLineWithWeight.h"
+	"clGraph.h"
+	<math.h>
+
+1701972712 c:\users\barna\Ñ++\graph\txlib.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+	<direct.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdarg.h>
+	<io.h>
+	<fcntl.h>
+	<process.h>
+	<signal.h>
+	<setjmp.h>
+	<locale.h>
+	<limits.h>
+	<stdint.h>
+	<map>
+	<numeric>
+	<exception>
+	<stdexcept>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<cxxabi.h>
+	<unwind.h>
+	<stdarg.h>
+	<unistd.h>
+	<termios.h>
+	<new.h>
+	<shlobj.h>
+	<ntstatus.h>
+	<crtdbg.h>
+	<rtcapi.h>
+	<dbghelp.h>
+	<inttypes.h>
+	<SAPI.h>
+
+1702311062 c:\users\barna\Ñ++\graph\clline.h
+	"clDraw.h"
+
+1702554281 c:\users\barna\Ñ++\graph\clgraph.h
+	<vector>
+	"clDraw.h"
+	"clNode.h"
+	"clLine.h"
+	"clNode.h"
+	"clLineWithWeight.h"
+	"clDraw.h"
+	<math.h>
+
+1702320538 source:c:\users\barna\Ñ++\graph\clgraph.cpp
+	"clGraph.h"
+
+1702320546 source:c:\users\barna\Ñ++\graph\cllinewithweight.cpp
+	"clLineWithWeight.h"
+	"clLine.h"
+
+1702317054 c:\users\barna\Ñ++\graph\cllinewithweight.h
+	"clLine.h"
+
+1702320540 source:c:\users\barna\Ñ++\graph\clline.cpp
+	"clLine.h"
+
